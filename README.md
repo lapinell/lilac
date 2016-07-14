@@ -1,2 +1,2 @@
 # lilac
-HTML/CSS only site skin demo
+HTML/CSS only site skin demo created by Laura Pinell
